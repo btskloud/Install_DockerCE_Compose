@@ -1,6 +1,6 @@
 # Install Docker CE and Docker Compose.
 *************************************
-# Install_DockerCE
+# Install Docker Community Edition
 
 ### Remove docker if it is installed on your instance.  If you have custome docker containers created I suggest pushing them to your docker hub account before proceeding. Obviously, don't include the $.
 ```
