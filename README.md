@@ -1,4 +1,4 @@
-# Install_DockerCE_Compose
+# Install_DockerCE
 Install Docker CE and Docker compose.
 
 ### Remove docker if it is installed on your instance.  If you have custome docker containers created I suggest pushing them to your docker hub account before proceeding. Obviously, don't include the $.
@@ -38,4 +38,6 @@ $ sudo usermod -aG docker $USER
 $ docker --version
 $ docker run ubuntu
 ```
-# YOU'RE DONE ENJOY...
+# YOU'RE DONE ENJOY Docker CE...
+****************************************
+# Install Docker Compose
