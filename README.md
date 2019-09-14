@@ -31,7 +31,7 @@ $ sudo apt install docker-ce -y
 ```
 $ sudo usermod -aG docker $USER
 ```
-### Reboot your instance our you will not be able to run docker command as your user.
+### Reboot your instance or you will not be able to run docker command as your user.
 
 ### Test out your docker account.
 ```
