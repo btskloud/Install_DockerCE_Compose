@@ -41,3 +41,18 @@ $ docker run ubuntu
 # YOU'RE DONE ENJOY Docker CE...
 ****************************************
 # Install Docker Compose
+
+## Find current release of Docker Compose.
+[link to latest version of Docker Compose](https://github.com/docker/compose/releases)
+
+## Replace the version "1.25.0-rc2" with the latest version. 
+```
+$ sudo curl -L https://github.com/docker/compose/releases/download/1.25.0-rc2/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+
+$ sudo chmod +x /usr/local/bin/docker-compose
+
+$ docker-compose --version
+```
+# YOU'RE DONE.. Enjoy Docker Compose.
+
+
