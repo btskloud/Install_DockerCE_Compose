@@ -8,7 +8,7 @@ $ sudo apt remove docker docker-engine docker.io
 
 # Get the necessary package from docker
 ```
-$ sudo apt install apt-transport-https ca-certificates curl software-properties-common
+$ sudo apt install apt-transport-https ca-certificates curl software-properties-common -y
 ```
 # Get docker gpg key
 ```
