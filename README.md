@@ -1,4 +1,4 @@
-# Install Docker CE and Docker compose.
+# Install Docker CE and Docker Compose.
 *************************************
 # Install_DockerCE
 
